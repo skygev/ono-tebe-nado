@@ -1,1 +1,1 @@
-my first version
+https://github.com/skygev/ono-tebe-nado/tree/main
