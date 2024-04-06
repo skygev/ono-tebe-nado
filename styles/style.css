@@ -200,7 +200,6 @@
   display: flex;
   justify-content: space-between;
   flex-direction: row;
-  align-items: center;
   gap: 25px;
   align-items: stretch;
   list-style-type: none;
@@ -370,22 +369,6 @@
   justify-content: center;
   align-items: flex-start;
   gap: 5px;
-}
-
-.header__contacts-tel {
-  white-space: nowrap;
-}
-
-.header__contacts-mail {
-  white-space: nowrap;
-}
-
-.header__contacts-address {
-  white-space: wrap;
-}
-
-.content-section {
-  box-sizing: border-box;
 }
 
 .footer__menu-item {
